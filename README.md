@@ -1,10 +1,10 @@
 # GetApi
 
-中文：PC客户端检测，用于检测官方BANAPI。对存在风险的Api进行替换参考：https://docs.microsoft.com/en-us/previous-versions/bb288454(v=msdn.10)?redirectedfrom=MSDN
+PC客户端检测，用于检测官方BANAPI。对存在风险的Api进行替换参考：https://docs.microsoft.com/en-us/previous-versions/bb288454(v=msdn.10)?redirectedfrom=MSDN
 使用方法：GetApi.exe XXXX.exe
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-English: PC Client Detection, used for detecting the official BANAPI. For APIs that pose a risk, refer to this for replacement: https://docs.microsoft.com/en-us/previous-versions/bb288454(v=msdn.10)?redirectedfrom=MSDN
+PC Client Detection, used for detecting the official BANAPI. For APIs that pose a risk, refer to this for replacement: https://docs.microsoft.com/en-us/previous-versions/bb288454(v=msdn.10)?redirectedfrom=MSDN
 Usage: GetApi.exe XXXX.exe
 
 GetApi.exe XXXX.exe
